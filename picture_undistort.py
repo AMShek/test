@@ -5,7 +5,7 @@ Created on Sat Sep 12 09:28:58 2020
 @author: Administrator
 """
 
-import cv2
+import cv2 
 import numpy as np
 import glob
 
